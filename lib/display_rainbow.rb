@@ -5,4 +5,6 @@ end
 
 
 name = "bob"
-puts = "Hi, #{name}!"
+def greeting
+  puts = "Hi, #{name}!"
+end 
